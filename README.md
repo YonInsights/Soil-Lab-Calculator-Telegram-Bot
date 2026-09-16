@@ -63,7 +63,9 @@ This chatbot demonstrates my skills in:
 
 I’d love to hear your feedback or collaborate on future projects!  
 - **Email**: email2yonatan@gmail.com 
-- **GitHub**: [Yonatan Abrham Damate]([https://github.com/yourusername](https://github.com/YonInsights))  
+- **GitHub**: [Yonatan Abrham](https://github.com/YonInsights)
+- **LinkedIn**: [Yonatan Abrham](https://www.linkedin.com/in/yonatan-abrham1/)
+- **Platform**: [Infradigital CAD](https://www.infradigitalcad.com/)
 
 ---
 
